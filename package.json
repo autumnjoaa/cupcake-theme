@@ -1,0 +1,21 @@
+{
+  "name": "cupcake-light",
+  "displayName": "Cupcake Light",
+  "description": "pink brown theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.74.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Cupcake Theme",
+        "uiTheme": "vs",
+        "path": "./themes/Cupcake Theme-color-theme.json"
+      }
+    ]
+  }
+}
